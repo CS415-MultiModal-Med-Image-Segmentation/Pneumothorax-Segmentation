@@ -20,8 +20,8 @@ logs/
 best_model_unetplusplus.pth
 
 testRun.py
-sample_batch.png
+# sample_batch.png
 predictions.png
 req2.txt
 sample_bathch.png
-training_curves.png
+# training_curves.png
