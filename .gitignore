@@ -25,3 +25,7 @@ predictions.png
 req2.txt
 sample_bathch.png
 # training_curves.png
+
+#datasets
+BraTS2020_training_data/
+FLAIR/
