@@ -29,3 +29,6 @@ sample_bathch.png
 #datasets
 BraTS2020_training_data/
 FLAIR/
+
+report/
+deep_research/
